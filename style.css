@@ -31,6 +31,7 @@ tr {
   width:150px;
   margin:0;
   padding: 40px;
+  background-color: #FFFAF0;
 }
 @media(max-width:800px){
   #grid {
