@@ -2,7 +2,7 @@
 You can find the web page by clicking the following URL.
 https://genuinelukas.github.io/web1/index.html
 
-This is the basic HTML based code.
+This is the basic HTML&CSS based code.
 index.html comes first, being a parent page for the other pages.
 I used Github Pages to gain the publishable URL.
 With the help of DISQUS and TAWK,
