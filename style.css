@@ -24,7 +24,8 @@ tr {
 }
 #grid {
   display:grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: 232px 1fr;
+  border-bottom: 2px black solid;
 }
 #grid ol {
   border-right: black 2px solid;
@@ -32,6 +33,10 @@ tr {
   margin:0;
   padding: 40px;
   background-color: #FFFAF0;
+}
+#grid div {
+  background-color: #FFFFF0;
+  padding: 30px;
 }
 @media(max-width:800px){
   #grid {
