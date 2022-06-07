@@ -34,11 +34,10 @@ tr {
   width:150px;
   margin:0;
   padding: 40px;
-  background-color: honeydew;
+  background-color: #eae0c8;
   font-weight: bold;
 }
 #grid div {
-  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: #FFFFF0;
   padding: 30px;
 }
