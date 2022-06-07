@@ -3,6 +3,8 @@ body {
 }
 a{
   color:#006400;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style:italic;
   text-decoration: none;
 }
 #active{
@@ -32,9 +34,11 @@ tr {
   width:150px;
   margin:0;
   padding: 40px;
-  background-color: #FFFAF0;
+  background-color: honeydew;
+  font-weight: bold;
 }
 #grid div {
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: #FFFFF0;
   padding: 30px;
 }
