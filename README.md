@@ -8,6 +8,6 @@ index.html comes first, being a parent page for the other pages.
 I used Github Pages to gain the publishable URL.
 With the help of DISQUS and TAWK,
 I could provide commmenting and chatting services,
-enabling more active interaction with the audience.
+enabling more active interaction with the users.
 Also, I used Google Analytics in order to analyze the website.
 
